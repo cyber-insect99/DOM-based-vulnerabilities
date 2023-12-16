@@ -1,9 +1,9 @@
 
 ![Logo](https://github.com/cyber-insect99/photo-gallery-/blob/main/Blue%20Gradient%20Modern%20LinkedIn%20Banner.jpg?raw=true)
 # DOM-based vulnerabilities
-[Lab-1](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages)
-[Lab-2](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url)
-[Lab-3](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse)
+## [Lab-1](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages)
+### [Lab-2](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url)
+# [Lab-3](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse)
 [Lab-4](https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection)
 [Lab-5](https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation)
 [Lab-6](https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering)
