@@ -8,7 +8,7 @@
 
 
 
-## Lab-1  , DOM XSS using web messages
+## [Lab-1] (https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages) , DOM XSS using web messages
 
 This lab demonstrates a simple web message vulnerability. To solve this lab, use the exploit server to post a message to the target site that causes the print() function to be called.
 - Go to the exploit server
